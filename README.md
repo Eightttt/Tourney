@@ -3,7 +3,7 @@
 - Team Names, Speaker Names, Countdown Timer
 
 ### Download
-- Download the latest release: [Tourney v0.1.0](https://github.com/Eightttt/Tourney/releases)
+- Download the latest release: [Tourney v0.1.1](https://github.com/Eightttt/Tourney/releases)
 
 ## Overview
 Section | Short description
