@@ -1,6 +1,7 @@
 # Tourney v0.1.0
 - Created for ease of use of Text sources for OBS
-
+- Team Names, Speaker Names, Countdown Timer
+- 
 ### Download
 - Download the latest release: [Tourney v0.1.0](https://github.com/Eightttt/Tourney/releases)
 
