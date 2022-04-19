@@ -1,4 +1,4 @@
-# Tourney v0.1.0
+# Tourney v0.1.1
 - Created for ease of use of Text sources for OBS
 - Team Names, Speaker Names, Countdown Timer
 
