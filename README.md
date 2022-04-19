@@ -16,16 +16,17 @@ Countdown Timer | countdown to specified time today
 Path | folder path to Text Files directory containing the .txt files for OBS
 
 ### Instructions for use
-1. Open Tourney
+1. Open/Run **Tourney**
 2. Input info for related text fields
 3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
-4. Open OBS
-5. Navigate to Sources
-6. Right-click -> Add -> **Text (GDI+)**
-7. Create new -> name your file *(related to any of the sections above)* -> click OK 
-8. Check "Read from file" -> click "Browse" -> a new file explorer appears
-9. Left click on the address bar at the very top
-10. Paste the path you copied from Tourney
-11. Select the txt file you wish to use *(if the .txt file is missing, click save first in Tourney then check again)*
-12. Click "Open" -> click "OK" = **You should be set!**
+4. Copy the path at the bottom of the window *(there is a button for it)*
+6. Open **OBS**
+7. Navigate to "Sources"
+8. Right-click -> Add -> **Text (GDI+)**
+9. Create new -> name your file *(related to any of the sections above)* -> click "OK"
+10. Check "Read from file" -> click "Browse" -> a new file explorer appears
+11. Left click on the address bar at the very top
+12. Paste the path you copied from **Tourney**
+13. Select the .txt file you wish to use *(if the .txt file is missing, click save first in Tourney then check again)*
+14. Click "Open" -> click "OK" = **You should be set!**
 
