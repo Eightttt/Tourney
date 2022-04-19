@@ -1,14 +1,27 @@
 # Tourney v0.1.0
 - Created for ease of use of Text sources for OBS
 
-## Download
+### Download
 - Download the latest release: [Tourney v0.1.0](https://github.com/Eightttt/Tourney/releases)
 
 ## Overview
-
-Uses | Short description
+Section | Short description
 ------------ | -------------
-Team names | updates name of each team
-Speaker names | updates name of each speaker
-Countdown Timer | countdown to specified time 
+Team Names | updates name of each team
+Speaker Names | updates name of each speaker *(Ex. Shoutcasters, Hosts, Emcees, Interviewer, or Interviewees)*
+Countdown Timer | countdown to specified time today
 Path | folder path to Text Files directory
+
+### Instructions for Basic Use
+1. Open Tourney
+2. Input info for related text fields
+3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
+4. Open OBS
+5. Navigate to Sources
+6. Right-click -> Add -> **Text (GDI+)**
+7. Create new -> name your file *(related to any of the sections below)* -> click OK 
+8. Check "Read from file" -> click "Browse" -> a new file explorer appears
+9. Left click on the address bar at the very top
+10. Paste the path you copied from Tourney
+11. Select the txt file you wish to use *(if the .txt file is missing, click save first in Tourney then check again)*
+12. Click "Open" -> click "OK" = **You should be set!**
