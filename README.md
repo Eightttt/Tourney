@@ -11,7 +11,7 @@ Section | Short description
 Team Names | updates name of each team
 Speaker Names | updates name of each speaker *(Ex. Shoutcasters, Hosts, Emcees, Interviewer, or Interviewees)*
 Countdown Timer | countdown to specified time today
-Path | folder path to Text Files directory
+Path | folder path to Text Files directory containing the .txt files for OBS
 
 ### Instructions for use
 1. Open Tourney
