@@ -13,14 +13,14 @@ Speaker Names | updates name of each speaker *(Ex. Shoutcasters, Hosts, Emcees, 
 Countdown Timer | countdown to specified time today
 Path | folder path to Text Files directory
 
-### Instructions for Basic Use
+### Instructions for Use
 1. Open Tourney
 2. Input info for related text fields
 3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
 4. Open OBS
 5. Navigate to Sources
 6. Right-click -> Add -> **Text (GDI+)**
-7. Create new -> name your file *(related to any of the sections below)* -> click OK 
+7. Create new -> name your file *(related to any of the sections above)* -> click OK 
 8. Check "Read from file" -> click "Browse" -> a new file explorer appears
 9. Left click on the address bar at the very top
 10. Paste the path you copied from Tourney
