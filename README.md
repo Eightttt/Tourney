@@ -2,6 +2,8 @@
 - Created for ease of use of Text sources for OBS
 - Team Names, Speaker Names, Countdown Timer
 
+![sample-image](https://drive.google.com/uc?id=1USK1LsZhCEKuhrb46r-GOO5GXxh9iKj0)
+
 ### Download
 - Download the latest release: [Tourney v0.1.1](https://github.com/Eightttt/Tourney/releases)
 
@@ -26,3 +28,4 @@ Path | folder path to Text Files directory containing the .txt files for OBS
 10. Paste the path you copied from Tourney
 11. Select the txt file you wish to use *(if the .txt file is missing, click save first in Tourney then check again)*
 12. Click "Open" -> click "OK" = **You should be set!**
+
