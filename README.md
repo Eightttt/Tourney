@@ -13,7 +13,7 @@ Speaker Names | updates name of each speaker *(Ex. Shoutcasters, Hosts, Emcees, 
 Countdown Timer | countdown to specified time today
 Path | folder path to Text Files directory
 
-### Instructions for Use
+### Instructions for use
 1. Open Tourney
 2. Input info for related text fields
 3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
