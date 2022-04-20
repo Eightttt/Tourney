@@ -16,7 +16,7 @@ Countdown Timer | countdown to specified time today
 Path | folder path to Text Files directory containing the .txt files for OBS
 
 ### Instructions for use
-1. Open/Run **Tourney**
+1. Open/Run **Tourney** as admin
 2. Input info for related text fields
 3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
 4. Copy the path at the bottom of the window *(there is a button for it)*
