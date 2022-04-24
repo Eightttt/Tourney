@@ -5,7 +5,7 @@
 ![sample-image](https://i.ibb.co/k3FNvTt/Screenshot-2022-04-19-223218.jpg)
 
 ### Download
-- Download the latest release: [Tourney v0.1.1](https://github.com/Eightttt/Tourney/releases)
+- Download the latest release: [Tourney v0.2.1](https://github.com/Eightttt/Tourney/releases)
 
 ## Overview
 Section | Short description
