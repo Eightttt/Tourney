@@ -1,8 +1,8 @@
-# Tourney v0.2.5
-- Created for ease of use of Text sources for OBS
-- Team Names, Speaker Names, Countdown Timer
+# Tourney v0.3.0
+- Created for ease of use of Text sources for Open Broadcaster Software Studio (OBS Studio)
+- Team Names, Talent Names, Team Scores, Guest Names, Countdown Timer
 
-![sample-image](https://i.ibb.co/k3FNvTt/Screenshot-2022-04-19-223218.jpg)
+![sample-image](https://i.ibb.co/rvGNH1M/Tourney.png)
 
 ### Download
 - Download the latest release: [Tourney v0.2.5](https://github.com/Eightttt/Tourney/releases)
@@ -11,16 +11,18 @@
 Section | Short description
 ------------ | -------------
 Team Names | updates name of each team
-Speaker Names | updates name of each speaker *(Ex. Shoutcasters, Hosts, Emcees, Interviewer, or Interviewees)*
-Countdown Timer | countdown to specified time today
-Path | folder path to Text Files directory containing the .txt files for OBS
+Talent Names | updates name of each talent *(Ex. Shoutcasters, Hosts, Speakers, Emcees, Interviewers)*
+Team Scores | updates score of each team
+Guest Names | updates name of each guest *(Ex. Players, Interviewees, other Talents)*
+Countdown Timer | time counts down to a specified time set today
+Path | folder path to Text Files directory containing the .txt files for OBS Studio use as *Text (GDI+) Source*
 
 ### Instructions for use
 1. Open/Run **Tourney** as **Admin**
 2. Input info for related text fields
-3. Click **"SAVE"** or **"START"** *(depending if team/speaker names or countdown timer respectively)*
+3. Click **"SAVE"** or **"START"** *(depending on its respective section, i.e., team names, talent names, team scores, guest names, or countdown timer)*
 4. Copy the path at the bottom of the window *(there is a button for it)*
-6. Open **OBS**
+6. Open **OBS Studio**
 7. Navigate to "Sources"
 8. Right-click -> Add -> **Text (GDI+)**
 9. Create new -> name your file *(related to any of the sections above)* -> click "OK"
